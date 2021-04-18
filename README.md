@@ -19,7 +19,7 @@ The CSS and web font files to easily self-host “Poppins”.
 
 ## Install
 
-`npm install --save typeface-poppins`
+`npm install --save @ttungbmt/typeface-poppins`
 
 ## Use
 
